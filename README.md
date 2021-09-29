@@ -13,6 +13,9 @@ I used what I have learned in the first two weeks of the bootcamp to write the H
 5) The page was styled for multiple screen sizes.
 6) included some on hover effects for the various links and the projects on the page.
 
+# Screenshot
+![Landing Page] (https://github.com/liuyfab/portfolio/blob/main/screenshot.png)
+
 
 # GitHub reository link
 
