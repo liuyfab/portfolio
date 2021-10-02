@@ -19,7 +19,7 @@ I used what I have learned in the first two weeks of the bootcamp to write the H
 
 
 # GitHub reository link
-https://github.com/liuyfab
+https://github.com/liuyfab/portfolio
 
 
 
